@@ -14,7 +14,7 @@ void verifyDeveloperSkills() {
     assertThat(hans)
         .isLocatedIn("Concepción, Chile")
         .speaks("Spanish", "English")
-        .masters("Java", "Spring Boot", "MySQL", "PostgreSQL")
+        .masters("Java", "Spring Boot", "MySQL", "PostgreSQL", "MongoDB")
         .knows("Python", "Kotlin")
         .understandsArchitecture("Microservices")
         .testsWith("JUnit", "Mockito", "H2")
