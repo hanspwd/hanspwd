@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Hans <img src="./assets/2.gif" width="50"></h2>
 <p><em>
-  Software Engineer | Specializing in Backend Development<br>
-  Focused on building robust, scalable, and secure software. Looking forward to learning DevOps over time!
+  Software Engineer | Specializing in Backend Development &amp; Starting out in Cybersecurity<br>
+  Focused on building robust, scalable, and secure software.
 </em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/hanspwd)
@@ -15,10 +15,11 @@ void verifyDeveloperSkills() {
         .isLocatedIn("Concepción, Chile")
         .speaks("Spanish", "English")
         .masters("Java", "Spring Boot", "MySQL", "PostgreSQL", "MongoDB")
-        .knows("Python", "Kotlin")
+        .knows("Python", "Kotlin", "Javascript", "Typescript")
         .understandsArchitecture("Microservices")
         .testsWith("JUnit", "Mockito", "H2")
-        .deploysWith("CI/CD");
+        .deploysWith("CI/CD")
+        .isStartingWith("Cybersecurity");
 }
 ```
 
