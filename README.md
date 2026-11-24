@@ -1,12 +1,9 @@
-<h2> Hi there, I'm Hans <img src="./assets/2.gif" width="50"></h2>
-<p><em>
-  Software Engineer | Specializing in Backend Development &amp; Starting out in Cybersecurity<br>
-  Focused on building robust, scalable, and secure software.
-</em></p>
+### Hi there, I'm Hans <img src="./assets/2.gif" width="38">
 
-![GitHub followers](https://img.shields.io/github/followers/hanspwd)
+*Software Engineer — Specializing in Backend Development & Starting out in Cybersecurity*  
+Focused on building robust, scalable, and secure software.
 
-### A little more about me...
+![GitHub followers](https://img.shields.io/github/followers/hanspwd?style=flat-square&color=gray)
 
 ```java
 @Test
@@ -23,6 +20,6 @@ void verifyDeveloperSkills() {
 }
 ```
 
-<em>Currently learning new technologies and working on projects.</em>
+*Currently learning new technologies and working on projects.*
 
-[Website](https://github.com/hanspwd), [Discord](https://discord.com/users/1284599511318007830), [Spotify](https://open.spotify.com/user/314yt6phxnfysjw3ztdjvfo3txhu), [LinkedIn](https://www.linkedin.com/in/hans-morales-07a031437/)
+[Website](https://github.com/hanspwd) · [Discord](https://discord.com/users/1284599511318007830) · [Spotify](https://open.spotify.com/user/314yt6phxnfysjw3ztdjvfo3txhu) · [LinkedIn](https://www.linkedin.com/in/hans-morales-07a031437/)
